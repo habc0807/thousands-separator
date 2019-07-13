@@ -1,0 +1,19 @@
+{
+  "name": "thousands-separator",
+  "version": "1.0.0",
+  "description": "A micro javascript library for formatting numbers with thousands separator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habc0807/thousands-separator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habc0807/thousands-separator/issues"
+  },
+  "homepage": "https://github.com/habc0807/thousands-separator#readme"
+}
